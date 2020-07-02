@@ -1,1 +1,1 @@
-# Application for sipmle numbers check
+# Application for prime numbers check
